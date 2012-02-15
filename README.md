@@ -52,11 +52,11 @@ s - stop
 
 . - seek forward
 
-+ - volume up (0 to 100, default 100)
+\+ - volume up (0 to 100, default 100)
 
-- - volume down
+\- - volume down
 
-> - amplify up (0 to 100, default 50)
+\> - amplify up (0 to 100, default 50)
 
 < - amplify down
 
