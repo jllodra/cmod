@@ -5,7 +5,7 @@ Cmod is a text-mode music player which plays files in IT, XM, S3M and MOD format
 
 It uses the excellent libbassmod (I honestly think this is the best one to play Impulse Tracker songs).
 
-I wrote this back in 2006, originally in Linux, but I have now ported it to Mac OSX Lion because I got with an Intel 32-bits version of libbassmod.dylib. If you have an afternoon it must be very easy to compile this in a Linux box with the appropiate libbassmod.so
+I wrote this back in 2006, originally in Linux, but I have now ported it to Mac OSX Lion because I ran across with an Intel 32-bits version of libbassmod.dylib. If you have an afternoon it must be very easy to compile this in a Linux box with the appropiate libbassmod.so
 
 In the dist/ folder you'll find a precompiled binary for Lion.
 
@@ -21,7 +21,7 @@ Original README (2006) below:
 
 [ herotyc.com :: jlg.hrtc@gmail.com ]
 
-                       [ 02-11-2006 ]
+[ 02-11-2006 ]
 
 cmod is a textmode module player based on
 ncurses and bassmod for playback
