@@ -1,7 +1,7 @@
 New README (2011)
 ---
 
-Cmod is a text-mode music player which plays files in IT, XM, S3M and MOD format.
+Cmod is a text-mode music player which plays files in IT, XM, S3M and MOD formats.
 
 It uses the excellent libbassmod (I honestly think this is the best one to play Impulse Tracker songs).
 
