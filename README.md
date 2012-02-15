@@ -7,7 +7,7 @@ It uses the excellent libbassmod (I honestly think this is the best one to play 
 
 I wrote this back in 2006, originally in Linux, but I have now ported it to Mac OSX Lion because I ran across with an Intel 32-bits version of libbassmod.dylib. If you have an afternoon it must be very easy to compile this in a Linux box with the appropiate libbassmod.so
 
-In the dist/ folder you'll find a precompiled binary for Lion.
+In the dist/ folder you'll find a precompiled binary for Lion. Xcode project is also there.
 
 Find a snapshot here: http://herotyc.untergrund.net/l/cmod.png
 
