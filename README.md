@@ -11,6 +11,8 @@ In the dist/ folder you'll find a precompiled binary for Lion. Xcode project is 
 
 Find a snapshot here: http://herotyc.untergrund.net/l/cmod.png
 
+![image](https://github.com/user-attachments/assets/cedbc221-6c14-4b2b-ad20-b0190d796aca)
+
 ---
 
 Original README (2006) below:
